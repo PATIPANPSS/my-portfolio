@@ -40,7 +40,7 @@ function App() {
         <div className="mb-8">
           <div className="w-32 h-32 md:w-40 md:h-40 rounded-full bg-slate-100 overflow-hidden shadow-xl">
             <img
-              src="/public/profile.jpeg"
+              src="/profile.jpeg"
               alt="profile"
               className="w-full h-full object-cover"
             />
@@ -122,7 +122,7 @@ function App() {
             <div className="group bg-white border border-slate-100 rounded-2xl hover:shadow-xl transition-all duration-300">
               <div className="h-56 bg-slate-50">
                 <img
-                  src="/public/exprense-tracker.png"
+                  src="/exprense-tracker.png"
                   alt=""
                   className="w-fit h-full mx-auto"
                 />
